@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Official PMnS Opening Resource Pack",
+        "name": "PMnS Opening Pack",
+        "uuid": "91eff5ae-1b83-49de-ad7e-e858461b764e",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 18, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Official PMnS Opening Resource Pack",
+            "type": "resources",
+            "uuid": "a43dd0fd-d096-4b8e-8ad5-8ff42afe93c7",
+            "version": [1, 0, 0]
+        }
+    ]
+}

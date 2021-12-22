@@ -1,0 +1,29 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "medley.music": {
+      "__use_legacy_max_distance": "true",
+      "category": "music",
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/medley/medley",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    },
+    "introduction": {
+      "__use_legacy_max_distance": "true",
+      "category": "music",
+      "sounds": [
+        {
+          "load_on_low_memory": true,
+          "name": "sounds/medley/intro",
+          "stream": true,
+          "volume": 1
+        }
+      ]
+    } 
+  }
+}
