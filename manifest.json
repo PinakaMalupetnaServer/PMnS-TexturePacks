@@ -4,7 +4,7 @@
         "description": "Official PMnS Christmas Resource Pack",
         "name": "PMnS Christmas Pack",
         "uuid": "a20eec42-50ca-42be-b9f7-075a29c31662",
-        "version": [1, 0, 0],
+        "version": [1, 2, 0],
         "min_engine_version": [ 1, 18, 0 ]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "Official PMnS Christmas Resource Pack",
             "type": "resources",
             "uuid": "721abef7-2c19-49c5-9305-1c2a19052b46",
-            "version": [1, 0, 0]
+            "version": [1, 2, 0]
         }
     ]
 }
